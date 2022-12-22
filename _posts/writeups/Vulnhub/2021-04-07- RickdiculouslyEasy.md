@@ -6,9 +6,8 @@ render_with_liquid: false
 image: https://0xch4rli3.github.io/assets/img/Vulnhub/RickdiculouslyEasy/capa.png
 ---
 
-![](/assets/img/Vulnhub/RickdiculouslyEasy/capa.png)
-
 Link da Materia: <https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/>
+
 
 
 # Scan/Enumeracao

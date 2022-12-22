@@ -7,8 +7,6 @@ image: https://0xch4rli3.github.io/assets/img/Vulnhub/TempleOfDoom/capa.png
 ---
 
 
-![](/assets/img/Vulnhub/TempleOfDoom/capa.png)
-
 ## Link da Maquina: <https://www.vulnhub.com/entry/temple-of-doom-1,243/>
 
 

@@ -7,8 +7,6 @@ image: https://0xch4rli3.github.io/assets/img/Vulnhub/WebDeveloper/capa.png
 ---
 
 
-![](/assets/img/Vulnhub/WebDeveloper/capa.png)
-
 ## Link da Maquina: <https://www.vulnhub.com/entry/web-developer-1,288/>
 
 
