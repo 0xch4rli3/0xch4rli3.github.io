@@ -2,6 +2,8 @@
 title: Vulnhub - WebDeveloper 
 categories: [Vulnhub]
 #tags: []
+render_with_liquid: false
+image: https://0xch4rli3.github.io/assets/img/Vulnhub/WebDeveloper/capa.png
 ---
 
 
